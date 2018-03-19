@@ -4,7 +4,7 @@ Progetto per la realizzazione di un RobotCar controllato da un app Android trami
 
 Tutto il progetto e' disponibile qui:
 
-##[Assemblaggio RobotCar](http://mancusoa74.blogspot.it/2017/07/robot-car-assemblaggio.html)
+[Assemblaggio RobotCar](http://mancusoa74.blogspot.it/2017/07/robot-car-assemblaggio.html)
 
 &nbsp;
 &nbsp;
@@ -14,7 +14,7 @@ Tutto il progetto e' disponibile qui:
 &nbsp;
 &nbsp;
 
-##[Cablaggio RobotCar](http://mancusoa74.blogspot.it/2018/03/robot-car-con-nodemcu.html)
+[Cablaggio RobotCar](http://mancusoa74.blogspot.it/2018/03/robot-car-con-nodemcu.html)
 
 &nbsp;&nbsp;
 
@@ -22,7 +22,7 @@ Tutto il progetto e' disponibile qui:
 
 &nbsp;&nbsp;
 
-##[Software RobotCar](http://mancusoa74.blogspot.nl/2018/03/robot-car-con-nodemcu-software.html)
+[Software RobotCar](http://mancusoa74.blogspot.nl/2018/03/robot-car-con-nodemcu-software.html)
 
 &nbsp;&nbsp;
 
